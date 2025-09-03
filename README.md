@@ -2,7 +2,7 @@
 
 Sou um Programador de Front-end, em transicão para o beck-end criando soluções inovadoras e resolvendo problemas complexos.
 
-MICAEL-CARVALHO-DEV/MICAEL-CARVALHO-DEV
+MICAEL-CARVALHO-DEV
 
 ## 🚀 Tecnologias que utilizo:
 
