@@ -1,4 +1,4 @@
-# Olá, sou [MICAEl CARVALHO]! http://googleusercontent.com/image_generation_content/0
+# Olá, meu nome é MICAEl CARVALHO
 
 Sou um Programador de Front-end, em transicão para o beck-end criando soluções inovadoras e resolvendo problemas complexos.
 
