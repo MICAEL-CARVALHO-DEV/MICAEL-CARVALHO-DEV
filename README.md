@@ -15,9 +15,9 @@ MICAEL-CARVALHO-DEV
 
 ## 📈 Estatísticas:
 
-![MICAEL STATUS](https://github-readme-stats.vercel.app/api?MICAEL-CARVALHO-DEV=anuraghazra&hide=contribs,prs)
+![Estatísticas de Micael](https://github-readme-stats.vercel.app/api?username=MICAEL-CARVALHO-DEV&show_icons=true&theme=dark&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MICAEL-CARVALHO-DEV=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MICAEL-CARVALHO-DEV&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Conecte-se comigo:
 
