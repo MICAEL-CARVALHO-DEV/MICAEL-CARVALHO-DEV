@@ -24,7 +24,7 @@ Sou um Desenvolvedor Front-end. Atualmente, estou em transição de carreira par
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micael-carvalho-30210b336/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](micael.carvalho.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micael.carvalho.dev@gmail.com)
 
 
 
