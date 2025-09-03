@@ -1,4 +1,4 @@
-# Olá, meu nome é MICAEl CARVALHO
+# Olá, meu nome é MICAEL CARVALHO
 
 Sou um Desenvolvedor Front-end. Atualmente, estou em transição de carreira para o Back-end e aprimorando minhas habilidades para me tornar um desenvolvedor Full-Stack. Busco sempre criar soluções inovadoras e resolver problemas complexos através do código.
 
