@@ -1,8 +1,9 @@
 # Olá, meu nome é MICAEl CARVALHO
 
-Sou um Programador de Front-end, em transicão para o beck-end criando soluções inovadoras e resolvendo problemas complexos.
+Sou um Desenvolvedor Front-end apaixonado por tecnologia. Atualmente, estou em transição de carreira para o Back-end e aprimorando minhas habilidades para me tornar um desenvolvedor Full-Stack. Busco sempre criar soluções inovadoras e resolver problemas complexos através do código.
 
-MICAEL-CARVALHO-DEV
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+- 🛠️ Formação Técnica em TI.
 
 ## 🚀 Tecnologias que utilizo:
 
